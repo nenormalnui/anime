@@ -1,7 +1,7 @@
 The website about Anime. Part of the frontend portfolio.
 https://nenormalnui.github.io/anime/
 
-Using libs:
+Using libs: </br>
 Swiper: <a href="https://swiperjs.com/">link</a></br>
 Seamless scroll polyfill: <a href="https://www.npmjs.com/package/seamless-scroll-polyfill">link</a></br>
 Database:
