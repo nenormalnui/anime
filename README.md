@@ -2,7 +2,7 @@ The website about Anime. Part of the frontend portfolio.
 
 Using libs:
 
-Swiper: link
+Swiper: <a href="https://swiperjs.com/">link</a>
 Seamless scroll polyfill: link
 Database:
 
